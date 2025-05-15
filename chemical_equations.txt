@@ -1,0 +1,32 @@
+List of 30 Chemical Equations for Balancing Animation (Polyatomic Ions Only):
+
+1. NaOH + HCl → NaCl + H2O
+2. KOH + HNO3 → KNO3 + H2O
+3. Ca(OH)2 + HCl → CaCl2 + H2O
+4. NH4Cl + NaOH → NH3 + NaCl + H2O
+5. Ba(OH)2 + H2SO4 → BaSO4 + H2O
+6. Na2CO3 + HCl → NaCl + H2O + CO2
+7. (NH4)2SO4 + NaOH → Na2SO4 + NH3 + H2O
+8. K2CO3 + HNO3 → KNO3 + H2O + CO2
+9. CaCO3 + HCl → CaCl2 + H2O + CO2
+10. Mg(OH)2 + H2SO4 → MgSO4 + H2O
+11. Na2SO4 + BaCl2 → BaSO4 + NaCl
+12. NH4NO3 → N2O + H2O
+13. (NH4)2CO3 → NH3 + H2O + CO2
+14. CuSO4 + NaOH → Cu(OH)2 + Na2SO4
+15. AgNO3 + NaCl → AgCl + NaNO3
+16. CaCO3 + H2SO4 → CaSO4 + H2O + CO2
+17. KOH + (NH4)2SO4 → K2SO4 + NH3 + H2O
+18. Na2CO3 + CaCl2 → CaCO3 + NaCl
+19. Fe(NO3)3 + NaOH → Fe(OH)3 + NaNO3
+20. (NH4)2S + HCl → NH4Cl + H2S
+21. CuSO4 + (NH4)2S → CuS + (NH4)2SO4
+22. Pb(NO3)2 + Na2SO4 → PbSO4 + NaNO3
+23. Ca(OH)2 + (NH4)2CO3 → CaCO3 + NH3 + H2O
+24. Al(NO3)3 + NaOH → Al(OH)3 + NaNO3
+25. (NH4)2SO4 + Ba(OH)2 → BaSO4 + NH3 + H2O
+26. ZnSO4 + Na2CO3 → ZnCO3 + Na2SO4
+27. Cu(NO3)2 → CuO + NO2 + O2
+28. (NH4)2Cr2O7 → N2 + Cr2O3 + H2O
+29. K2CO3 + Mg(NO3)2 → MgCO3 + KNO3
+30. Fe2(SO4)3 + NaOH → Fe(OH)3 + Na2SO4
